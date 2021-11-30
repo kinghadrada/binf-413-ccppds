@@ -1,3 +1,11 @@
+
+//
+//Course: C, CPP and DS (BINF-413) 
+//Taught By:A Murali
+//Code By:Satyakam
+//Last Compiled:30-Nov-21
+//Description:Program to calculate distance and slope from the coordinates of two points.
+
 #include <stdio.h>
 #include <math.h>
 
